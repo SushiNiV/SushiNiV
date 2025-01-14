@@ -4,6 +4,7 @@
 
 Howwweey! I am Sushi, an aspiring full-stack software developer and indie game developer in PH. I excel at digital designing as I work at several creatives, publicity, and marketing committees on several organizations. 
 
+![https://www.linkedin.com/in/sushane-vendiola-025snv/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
