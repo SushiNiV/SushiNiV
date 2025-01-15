@@ -21,4 +21,4 @@ Howwweey! I am Sushi, an aspiring full-stack software developer and indie game d
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 -->
-[linkedin]: https://www.linkedin.com/in/sushane-vendiola-025snv/
+<--[linkedin]: https://www.linkedin.com/in/sushane-vendiola-025snv/-!>
