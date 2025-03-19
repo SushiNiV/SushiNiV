@@ -6,7 +6,7 @@ Howwweey! I am Sushi, an aspiring full-stack software developer and indie game d
 
 <p align="left">
       <a href="www.linkedin.com/in/sushane-vendiola-025snv" target="_blank" rel="noopener noreferrer">
-         <img alt="LinkedIn Profile" title="Connect me at LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a> 
+         <img alt="LinkedIn Profile" title="Connect me at LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 
 ---
